@@ -1,8 +1,8 @@
 package org.example.empleados
 
 data class Empleados(
-    var ID: String,
-    var Apellido: String,
-    var Departamento: String,
-    var Salario: String
+    var id: String,
+    var apellido: String,
+    var departamento: String,
+    var salario: String
 )
